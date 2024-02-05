@@ -5,8 +5,6 @@ public  class Bai4 {
         Scanner sc = new Scanner(System.in);
         System.out.print("nhap 1 so nguyen :");
         int so = sc.nextInt();
-        
-        
         switch (so) {
             case 1:
                 System.out.print("thang 1");
